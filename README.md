@@ -1,6 +1,6 @@
 ### Hi, I'm Guan 👋
 
-**Applied ML engineer in Toronto.** I build agent systems, the evaluation tooling that keeps them honest, and the infrastructure both run on.
+**Applied ML engineer.** I build agent systems, the evaluation tooling that keeps them honest, and the infrastructure both run on.
 
 [![Website](https://img.shields.io/badge/coronring.github.io-0a0a0b?style=flat-square&logo=astro&logoColor=fffa00)](https://coronring.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0b?style=flat-square&logo=linkedin&logoColor=fffa00)](https://www.linkedin.com/in/guan0huang/)
